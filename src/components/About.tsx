@@ -26,7 +26,7 @@ export const About = () => {
             
             <div className="relative w-full h-full rounded-full overflow-hidden border-4 border-white/20 shadow-[0_0_50px_rgba(0,198,255,0.4)] transition-transform duration-500 group-hover:scale-105">
               <img 
-                src="https://picsum.photos/seed/kanis/800/800" 
+                src="https://i.postimg.cc/Y215CSvg/Whats-App-Image-2026-03-27-at-6-26-18-PM.jpg" 
                 alt="Kanis Fatema" 
                 className="w-full h-full object-cover transition-all duration-700"
                 referrerPolicy="no-referrer"

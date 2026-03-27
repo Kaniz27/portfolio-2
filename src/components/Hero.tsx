@@ -133,7 +133,7 @@ const Hero = () => {
           >
             <div className="w-64 h-64 rounded-full bg-gradient-to-br from-blue-500/40 to-cyan-500/40 blur-2xl absolute animate-pulse-glow" />
             <img 
-              src="https://picsum.photos/seed/developer/400/400" 
+              src="https://i.postimg.cc/tT8MCKjw/Whats-App-Image-2026-03-27-at-6-15-10-PM.jpg" 
               alt="Developer" 
               className="w-64 h-64 rounded-full object-cover border-4 border-white/20 relative z-10 shadow-[0_0_50px_rgba(0,198,255,0.3)]"
               referrerPolicy="no-referrer"

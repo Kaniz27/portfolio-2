@@ -17,9 +17,7 @@ export const Footer = () => {
           <div className="md:col-span-5">
             <Link to="hero" smooth={true} className="cursor-pointer flex items-center gap-3 mb-6 group">
               <Logo className="text-3xl" />
-              <span className="text-3xl font-black font-orbitron text-white/90 group-hover:text-white transition-colors">
-                Kanis Fatema
-              </span>
+              
             </Link>
             <p className="text-white/50 leading-relaxed max-w-md text-lg">
               Frontend Developer building accessible, performant, and visually engaging web applications that solve real problems.

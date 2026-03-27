@@ -142,7 +142,7 @@ export const Contact = () => {
                   className="w-full px-6 py-4 rounded-xl bg-white/5 border border-white/10 focus:border-blue-500 focus:outline-none transition-colors resize-none"
                 />
               </div>
-              <button className="btn-primary w-full flex items-center justify-center gap-3 py-4">
+              <button className="btn-primary  w-full flex items-center justify-center gap-3 py-4">
                 <FaPaperPlane /> Send Message
               </button>
             </form>

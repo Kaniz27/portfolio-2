@@ -52,7 +52,7 @@ export const Contact = () => {
                 </div>
                 <div>
                   <h4 className="text-lg font-bold mb-1">Email Me</h4>
-                  <p className="text-white/50">kanisfatematuly40@gmail.com</p>
+                  <p className="text-white/50">kanizfatematuly40@gmail.com</p>
                 </div>
               </div>
 
@@ -78,7 +78,7 @@ export const Contact = () => {
                     rel="noopener noreferrer"
                     className="text-white/50 hover:text-green-400 transition-colors"
                   >
-                    +880 1700-000000
+                    +880 1700-458796
                   </a>
                 </div>
               </div>

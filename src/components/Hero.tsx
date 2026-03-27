@@ -39,7 +39,7 @@ const Hero = () => {
             Hi, I'm
           </h4>
           <h1 className="text-6xl md:text-8xl font-display font-bold mb-6 leading-tight">
-            Kanis <span className="text-gradient glow-text">Fatema</span>
+            Kaniz <span className="text-gradient glow-text">Fatema</span>
           </h1>
           
           {/* Vertical Marquee Sub-headline */}

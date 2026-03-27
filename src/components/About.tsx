@@ -46,7 +46,7 @@ export const About = () => {
             About Me
           </h4>
           <h2 className="text-4xl md:text-5xl font-display font-bold mb-8">
-            Hi, I'm <span className="text-gradient">Kanis Fatema</span>
+            Hi, I'm <span className="text-gradient">Kaniz Fatema</span>
           </h2>
           <p className="text-lg text-white/70 mb-10 leading-relaxed">
             I'm a passionate Full Stack Developer from Dhaka, Bangladesh. I specialize in building scalable backend systems and modern frontend applications using the MERN stack. My journey in tech is driven by a desire to create impactful digital experiences that solve real-world problems.

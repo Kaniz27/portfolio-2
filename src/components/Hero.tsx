@@ -74,7 +74,7 @@ const Hero = () => {
               </button>
             </Link>
             <a 
-              href="/resume.pdf" 
+              href="/public/Resume.pdf" 
               target="_blank"
               className="flex items-center gap-2 px-6 py-3 rounded-full font-semibold text-white/70 hover:text-white transition-colors"
             >
@@ -96,7 +96,7 @@ const Hero = () => {
               </div>
               <div>
                 <h4 className="font-bold">Experience</h4>
-                <p className="text-xs text-white/60">1+ Years</p>
+                <p className="text-xs text-white/60">1.5+ Years</p>
               </div>
             </div>
             <div className="h-2 w-full bg-white/10 rounded-full overflow-hidden">
@@ -115,7 +115,7 @@ const Hero = () => {
               </div>
               <div>
                 <h4 className="font-bold">Projects</h4>
-                <p className="text-xs text-white/60">9+ Completed</p>
+                <p className="text-xs text-white/60">30+ Completed</p>
               </div>
             </div>
             <div className="flex -space-x-2">

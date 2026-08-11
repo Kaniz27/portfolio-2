@@ -10,6 +10,8 @@ export interface SkillItem {
   name: string;
   icon: IconType;
 }
+import { FaWordpress } from 'react-icons/fa';
+import { SiWebflow } from 'react-icons/si';
 
 export interface SkillCategory {
   category: string;
@@ -64,6 +66,17 @@ export const SKILLS: SkillCategory[] = [
     ]
   },
   {
+    category: 'WordPress & Webflow',
+    items: [
+      { name: 'WordPress', icon: FaWordpress },
+      { name: 'Webflow', icon: SiWebflow },
+      { name: 'Elementor', icon: FaWordpress },
+      { name: 'WordPress Theme Customization', icon: FaWordpress },
+      { name: 'Webflow CMS', icon: SiWebflow },
+      { name: 'Responsive Web Design', icon: SiWebflow },
+    ]
+  },
+  {
     category: 'Tools',
     items: [
       { name: 'Git', icon: FaGitAlt },
@@ -73,7 +86,6 @@ export const SKILLS: SkillCategory[] = [
     ]
   }
 ];
-
 export const PROJECTS = [
   {
     title: 'Kanis Dream Plants Ghor',
@@ -161,23 +173,28 @@ export const PROJECTS = [
 
 export const EDUCATION = [
   {
-    year: '2025',
-    degree: 'Diploma in CSE',
-    institution: 'Graphic Arts Institute',
-    result: 'CGPA: 3.70'
-  },
-  {
-    year: '2022',
-    degree: 'HSC',
-    institution: 'Fulchari Degree College',
-    result: 'GPA: 4.73'
-  },
-  {
-    
-    degree: 'SSC',
-    institution: 'Shaghata Pilot Girls High School & College',
-    result: 'GPA: 4.68'
-  }
+  year: '2026',
+  degree: 'B.Sc. in CSE',
+  institution: 'Canadian University of Bangladesh',
+  result: 'Batch: Summer 2026'
+},
+{
+  year: '2025',
+  degree: 'Diploma in CSE',
+  institution: 'Graphic Arts Institute',
+  result: 'CGPA: 3.70'
+},
+{
+  year: '2022',
+  degree: 'HSC',
+  institution: 'Fulchari Degree College',
+  result: 'GPA: 4.73'
+},
+{
+  year: 'SSC',
+  institution: 'Shaghata Pilot Girls High School & College',
+  result: 'GPA: 4.68'
+}
 ];
 
 export const TRAINING = [

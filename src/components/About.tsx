@@ -2,8 +2,8 @@ import React from 'react';
 import { motion } from 'motion/react';
 
 const STATS = [
-  { label: 'Experience', value: '1+ Years' },
-  { label: 'Projects Completed', value: '8+' },
+  { label: 'Experience', value: '1.5+ Years' },
+  { label: 'Projects Completed', value: '30+' },
   { label: 'Training Hours', value: '300+' },
   { label: 'Specialization', value: 'MERN Stack' },
 ];

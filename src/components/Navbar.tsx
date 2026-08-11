@@ -82,7 +82,7 @@ const Navbar: React.FC = () => {
         {/* Right Buttons */}
         <div className="hidden md:flex items-center gap-4">
           <a 
-            href="/resume.pdf" 
+            href="/Resume.pdf" 
             target="_blank" 
             className="px-6 py-2 border border-neon-blue text-neon-blue rounded-full hover:bg-neon-blue/10 transition-all font-medium"
           >

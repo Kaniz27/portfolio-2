@@ -173,7 +173,7 @@ export const EDUCATION = [
     result: 'GPA: 4.73'
   },
   {
-    year: '2017',
+    
     degree: 'SSC',
     institution: 'Shaghata Pilot Girls High School & College',
     result: 'GPA: 4.68'
@@ -211,17 +211,17 @@ export const TRAINING = [
 
 export const EXPERIENCE = [
   {
-    period: 'Dec 2025 – Mar 2026',
-    role: 'Frontend Developer',
-    company: 'Green Soul IT',
-    description: 'Developed responsive e-commerce website using React, Tailwind CSS, JavaScript. Implemented routing using React Router and managed global state with Redux.',
-    roles: [
-      'Developed responsive e-commerce website using React, Tailwind CSS, JavaScript',
-      'Implemented routing using React Router',
-      'Managed state with Redux',
-      'Designed modern UI',
-      'Ensured cross-device compatibility'
-    ]
+    period: 'Dec 2025 – July 2026',
+role: 'Junior Developer',
+company: 'Betopia Group (SM Technology)',
+description: 'Developed and customized responsive websites using WordPress and Webflow. Built modern UI layouts, customized themes and components, and ensured cross-device compatibility.',
+roles: [
+  'Developed and customized responsive websites using WordPress and Webflow',
+  'Customized WordPress themes and website layouts',
+  'Built and designed modern web pages using Webflow',
+  'Created responsive and user-friendly UI designs',
+  'Ensured cross-device and cross-browser compatibility'
+]
   },
   {
     period: 'Mar 2025 – Aug 2025',

@@ -74,7 +74,7 @@ const Hero = () => {
               </button>
             </Link>
             <a 
-              href="/public/Resume.pdf" 
+              href="/Resume.pdf" 
               target="_blank"
               className="flex items-center gap-2 px-6 py-3 rounded-full font-semibold text-white/70 hover:text-white transition-colors"
             >

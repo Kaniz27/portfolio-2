@@ -182,7 +182,7 @@ export const EDUCATION = [
   year: '2025',
   degree: 'Diploma in CSE',
   institution: 'Graphic Arts Institute',
-  result: 'CGPA: 3.70'
+  result: 'CGPA: 3.69'
 },
 {
   year: '2022',
